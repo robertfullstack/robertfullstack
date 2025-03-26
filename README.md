@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Robert, Atualmente Estudando a área de Desenvolvimento de Software! 😁
 ### Bem-vindo(a) ao meu perfil!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DreyMendonca/)
-<a href = "mailto:mendonca.drey@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertgsilva/)
+<a href = "mailto:robertcontaprofissional2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <br>
